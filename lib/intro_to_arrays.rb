@@ -26,6 +26,6 @@ def last_element_with_array_methods(array)
   array.last
 end
 
-def length(array)
-  array.length
+def length_of_array
+  array.count
 end
